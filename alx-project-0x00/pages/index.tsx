@@ -14,7 +14,7 @@ const Home: React.FC = () => {
 
         </h1>Airbnb Application Clone system</h1>
       </main>
-    </>
+
   );
 };
 
